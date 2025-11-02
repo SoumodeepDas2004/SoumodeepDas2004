@@ -4,7 +4,7 @@
 ---
 
 ### 🧭 About Me
-- 🎓 **B.Tech in Computer Science & Engineering**, Narula Institute of Technology  
+- 🎓 **B.Tech in Electronics & Communication Engineering**, Narula Institute of Technology  
 - 💡 Passionate about building **secure, intelligent systems** — combining software development with cybersecurity  
 - 🛡️ Actively learning **SOC operations, threat hunting, and network security fundamentals**  
 - 💬 Ask me about **Python, Java, FastAPI, MySQL, Spring Boot, or cyber defense practices**  
