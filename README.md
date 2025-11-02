@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Soumodeep Das</h1>
 <h3 align="center">Software Developer | Cybersecurity Enthusiast | Student at Narula Institute of Technology (2022–2026)</h3>
+<h5 align="center"> 📍Uttarpara,Hooghly,WestBengal,India </h5>
+<h5 align="center"> 📧 higherdas09@gmail.com (Personal) | officialsoumodeepdas09@gmail.com (Office) </h5>
 
 ---
 
@@ -36,6 +38,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumodeepDas2004&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumodeepDas2004&theme=tokyonight" height="180em"/>
+  
+  **For more details check out my Codolio profile** 
+  
 </p>
 
 ---
