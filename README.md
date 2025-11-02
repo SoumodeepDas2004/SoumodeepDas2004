@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/soumodeep-das-2b76b8355" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.codolio.com/soumodeepdas2004" target="_blank">
+  <a href="https://codolio.com/profile/Soumo04/card" target="_blank">
     <img src="https://img.shields.io/badge/-Codolio-%23121212?style=for-the-badge&logo=codesandbox&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0002-4325-699X" target="_blank">
