@@ -57,12 +57,24 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumodeep-das-20957438a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0002-4325-699X"><img src="https://img.shields.io/badge/-ORCID-%23A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/Soumo04"><img src="https://codolio.com/codolio_assets/codolio.svg?style=flat&logo=codolio&logoColor=white"/></a>
+---
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumodeep-das-2b76b8355" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.codolio.com/soumodeepdas2004" target="_blank">
+    <img src="https://img.shields.io/badge/-Codolio-%23121212?style=for-the-badge&logo=codesandbox&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0002-4325-699X" target="_blank">
+    <img src="https://img.shields.io/badge/-ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
 </p>
+
+
+
+
 
 ---
 
