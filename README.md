@@ -48,7 +48,7 @@
 ### 🚀 Featured Projects
 - 🔹 [**PrivTalk**](https://github.com/SneharpitaMukherjee2004/PrivTalk) – A privacy-first chat app using FastAPI, WebSockets, and QR-based encryption  
 - 🔹 [**DigiNotice**](https://github.com/SoumodeepDas2004/DigiNotice) – Smart notice management for institutes (PyQt5 + MySQL + OCR)  
-- 🔹 [**AICTE Internship - Waste Image Classification Project**](https://github.com/SoumodeepDas2004/AICTE-inters...) – CNN model for image-based waste classification  
+- 🔹 [**AICTE Internship - Waste Image Classification Project**](https://github.com/SoumodeepDas2004/AICTE-intership-To-develop-a-CNN-model-to-classify-images-of-plastic-waste-into-different-categories.git) – CNN model for image-based waste classification  
 
 ---
 
