@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Soumodeep Das</h1>
 <h3 align="center">Software Developer | Cybersecurity Enthusiast | Student at Narula Institute of Technology (2022–2026)</h3>
 <h4 align="center"> 📍Uttarpara,Hooghly,WestBengal,India </h4>
-<h5 align="center"> 📧 higherdas09@gmail.com (Personal) | officialsoumodeepdas09@gmail.com (Office) </h5>
+<h5 align="center"> 📧 higherdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
 
 ---
 
