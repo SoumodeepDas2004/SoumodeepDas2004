@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Soumodeep Das</h1>
-<h3 align="center">Software Developer | Cybersecurity Enthusiast | Student at Narula Institute of Technology (2022–2026)</h3>
-<h4 align="center"> 📍Uttarpara,Hooghly,WestBengal,India </h4>
-<h5 align="center"> 📧 higherdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
+<h2 align="center">Soumodeep Das (NightEagle) | Cybersecurity | Threat Intelligence | SOC | OSINT| Software Developer | </h2>
+<h3> Student at Narula Institute of Technology (2022–2026)</h3>
+<h4 align="center"> 📍Uttarpara, Hooghly, WestBengal, India </h4>
+<h5 align="center"> 📧 officialsoumodeepdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
 
 ---
 
@@ -66,7 +67,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soumodeep-das-2b76b8355" target="_blank">
+  <a href="[https://www.linkedin.com/in/soumodeepdas-cybersecurity-neagle02" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://codolio.com/profile/Soumo04/card" target="_blank">
@@ -77,7 +78,10 @@
   </a>
 </p>
 
+Author: Soumodeep Das (NightEagle)
+Cybersecurity Enthusiast
 
+LinkedIn:
 
 
 
