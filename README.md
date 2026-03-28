@@ -3,6 +3,11 @@
 <h3> Student at Narula Institute of Technology (2022–2026)</h3>
 <h4 align="center"> 📍Uttarpara, Hooghly, WestBengal, India </h4>
 <h5 align="center"> 📧 officialsoumodeepdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
+<p align="center">
+🔗 <a href="https://www.linkedin.com/in/soumodeepdas-cybersecurity-neagle02/" target="_blank">LinkedIn</a> •
+📝 <a href="https://medium.com/@higherdas09" target="_blank">Medium</a> •
+💻 <a href="https://github.com/SoumodeepDas2004" target="_blank">GitHub</a>
+</p>
 
 ---
 
