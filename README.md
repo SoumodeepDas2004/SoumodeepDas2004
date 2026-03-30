@@ -6,7 +6,7 @@
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/soumodeepdas-cybersecurity-neagle02/" target="_blank">LinkedIn</a> •
 📝 <a href="https://medium.com/@higherdas09" target="_blank">Medium</a> •
-💻 <a href="https://github.com/SoumodeepDas2004" target="_blank">GitHub</a>•
+💻 <a href="https://github.com/SoumodeepDas2004" target="_blank">GitHub</a> •
 🌐<a href="https://soumodeep-portfolio.vercel.app" target="_blank"> Portfolio</a>
 </p>
 
