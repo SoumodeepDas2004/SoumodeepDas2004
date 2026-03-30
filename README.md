@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Soumodeep Das, aka NightEagle</h1>
 <h2 align="center">Cybersecurity | Threat Intelligence | SOC | OSINT| Software Developer | Malware Analyst </h2>
-<h3> Student at Narula Institute of Technology (2022–2026)</h3>
+<h3 align="center">B.tech Student at Narula Institute of Technology (2022–2026)</h3>
 <h4 align="center"> 📍Uttarpara, Hooghly, WestBengal, India </h4>
 <h5 align="center"> 📧 officialsoumodeepdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
 <p align="center">
