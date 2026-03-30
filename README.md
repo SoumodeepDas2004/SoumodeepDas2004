@@ -1,12 +1,13 @@
 <h1 align="center"> Hi, I'm Soumodeep Das, aka NightEagle</h1>
-<h2 align="center">Cybersecurity | Threat Intelligence | SOC | OSINT| Software Developer | </h2>
+<h2 align="center">Cybersecurity | Threat Intelligence | SOC | OSINT| Software Developer | Malware Analyst </h2>
 <h3> Student at Narula Institute of Technology (2022–2026)</h3>
 <h4 align="center"> 📍Uttarpara, Hooghly, WestBengal, India </h4>
 <h5 align="center"> 📧 officialsoumodeepdas09@gmail.com (Personal) | nighteagle04@protonmail.com (Work) </h5>
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/soumodeepdas-cybersecurity-neagle02/" target="_blank">LinkedIn</a> •
 📝 <a href="https://medium.com/@higherdas09" target="_blank">Medium</a> •
-💻 <a href="https://github.com/SoumodeepDas2004" target="_blank">GitHub</a>
+💻 <a href="https://github.com/SoumodeepDas2004" target="_blank">GitHub</a>•
+🌐<a href="https://soumodeep-portfolio.vercel.app" target="_blank"> Portfolio</a>
 </p>
 
 ---
@@ -81,12 +82,15 @@
   <a href="https://orcid.org/0009-0002-4325-699X" target="_blank">
     <img src="https://img.shields.io/badge/-ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
+  <a href="https://soumodeep-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-%23FF5733?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 </p>
 
 Author: Soumodeep Das (NightEagle)
 Cybersecurity Enthusiast
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/soumodeep-das-2b76b8355
 
 
 
